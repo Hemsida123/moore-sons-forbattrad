@@ -1,0 +1,27 @@
+MOORE & SONS – FÄRDIGA HEMSIDESFILER
+
+Öppna index.html för att se hemsidan lokalt.
+Behåll alla mappar och filer tillsammans. index.html fungerar inte ensam.
+
+GITHUB PAGES
+1. Packa upp zip-filen.
+2. Ladda upp innehållet till ditt GitHub-repository. index.html ska ligga
+   direkt i repositoryts rot, tillsammans med assets och övriga mappar.
+3. Välj huvudgrenen och /(root) under Settings > Pages.
+4. Vänta tills publiceringen är klar och öppna adressen GitHub visar.
+
+WEBBHOTELL
+Ladda upp samma innehåll till den aktuella domänens webbrot.
+Ta först en säkerhetskopia om du ersätter en befintlig hemsida.
+
+Kontaktknapparna öppnar telefonen eller besökarens e-postprogram.
+Inga konton, paketinstallationer eller byggsteg behövs.
+
+Innehåll och bilder bygger på mooreas.no. Alla fem projekt är med.
+Kundomdömena är korta utdrag från deras hemsida, inte Google-betyg.
+
+Innan skarp publicering: låt företaget bekräfta innehåll, bildrättigheter
+och personvernsinformation. Anpassa canonical-adresser, sitemap och
+delningsbild till den slutliga domänen.
+
+Detta är en ny designleverans. Originalhemsidan har inte ändrats.
